@@ -1,0 +1,29 @@
+
+:root {
+    --cor-fundo: #f7f7f7;
+    --cor-texto:#1a1a1a;
+    --cor-secundaria: #8a8178;
+    --cor-borda: #e0dbd4;
+    --fonte-titulo: 'Cormorant Garamond' , serif;
+    --fonte-corpo: 'Inter', sans-serif;
+}
+
+
+*, *::before, *::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
+    font-family: var(--fonte-corpo);
+    font-weight: 300;
+    -webkit-font-smoothing: antialiased;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
