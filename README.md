@@ -87,3 +87,9 @@ PORT=3000
 - [ ] Upload de imagens dos produtos
 - [ ] Carrinho de compras
 - [ ] Painel administrativo para gerenciar produtos
+
+<img width="1892" height="895" alt="image" src="https://github.com/user-attachments/assets/27230e30-cbe7-40f2-b06f-29c193b15b03" />
+<img width="1881" height="883" alt="image" src="https://github.com/user-attachments/assets/ca63d500-67d8-431b-935e-205d1e8d5351" />
+<img width="1859" height="881" alt="image" src="https://github.com/user-attachments/assets/88e569d5-6805-42a4-86c1-293b4996b0dc" />
+
+
